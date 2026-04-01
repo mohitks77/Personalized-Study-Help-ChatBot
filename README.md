@@ -51,4 +51,4 @@ server/   Express API, content ingestion, AI orchestration
 
 See [server/.env.example](server/.env.example).
 
-If `OPENAI_API_KEY` is not set, the app still runs in a lightweight fallback mode using heuristic summarization, quiz generation, and chat responses so you can demo the full flow without external services.
+If `OPENAI_API_KEY` is not set, the app still runs in a lightweight fallback mode using heuristic summarization, quiz generation, and chat responses on gpt-4.1 mini.
