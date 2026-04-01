@@ -1,4 +1,4 @@
-# Study Sage
+# Personalized-Study-Help-ChatBot
 
 Study Sage is a full-stack personalized study helper that ingests learning material from a URL, extracts meaningful content, generates a structured summary, recommends follow-up resources, creates a quiz, evaluates answers, and supports follow-up chatbot conversations.
 
