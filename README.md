@@ -45,7 +45,7 @@ server/   Express API, content ingestion, AI orchestration
    npm run dev
    ```
 
-4. Open `http://localhost:5173`
+4. Open `http://localhost:3000`
 
 ## Environment
 
